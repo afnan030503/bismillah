@@ -3,7 +3,6 @@ using namespace std;
 
 //program main
 int main (){//begin
-
 //numeric p,l,luas
 double p,l,luas;
 //display "masukkan panjang"
